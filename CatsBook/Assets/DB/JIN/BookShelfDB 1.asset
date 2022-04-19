@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ab18e63102d554e9273d7d34e72c84, type: 3}
+  m_Name: BookShelfDB 1
+  m_EditorClassIdentifier: 
+  book_list:
+  - {fileID: 11400000, guid: 41338399588101d45be3744db0110000, type: 2}
+  - {fileID: 11400000, guid: 57b0a4beb6b7bc4419c1cdc357de3ae2, type: 2}
+  - {fileID: 11400000, guid: ebfc084a59e60a3469aac661b5656749, type: 2}
+  - {fileID: 11400000, guid: 66dfe4b66bc08eb468513962628aa90e, type: 2}

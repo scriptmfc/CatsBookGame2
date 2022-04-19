@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c02e781f133c9a45893697013a2f133, type: 3}
+  m_Name: FurnitureChart_FurnitureChart_Sheet
+  m_EditorClassIdentifier: 
+  ExcelFileName: FurnitureChart.xlsx
+  ExcelSheetName: FurnitureChart
+  KeyFieldName: _ID
+  elements:
+  - _ID: 101
+    _Attribute: Basic
+    _Name: BookShelf
+    _Width: 1
+    _Length: 2
+    _Price: 500
+    _GoodsType: Gold
+    _Type: Shelf
+  - _ID: 102
+    _Attribute: Basic
+    _Name: Table
+    _Width: 2
+    _Length: 2
+    _Price: 800
+    _GoodsType: Gold
+    _Type: Table
+  - _ID: 103
+    _Attribute: Basic
+    _Name: MarketShell
+    _Width: 1
+    _Length: 3
+    _Price: 400
+    _GoodsType: Gold
+    _Type: Normal
+  - _ID: 104
+    _Attribute: Basic
+    _Name: Table
+    _Width: 2
+    _Length: 2
+    _Price: 900
+    _GoodsType: Gold
+    _Type: Normal
+  - _ID: 201
+    _Attribute: Black
+    _Name: BookShelf
+    _Width: 1
+    _Length: 2
+    _Price: 800
+    _GoodsType: Cash
+    _Type: Shelf
+  - _ID: 202
+    _Attribute: Black
+    _Name: Table
+    _Width: 2
+    _Length: 2
+    _Price: 900
+    _GoodsType: Cash
+    _Type: Table
+  - _ID: 203
+    _Attribute: Black
+    _Name: MarketShell
+    _Width: 1
+    _Length: 3
+    _Price: 1400
+    _GoodsType: Cash
+    _Type: Normal
+  - _ID: 204
+    _Attribute: Black
+    _Name: Table
+    _Width: 2
+    _Length: 2
+    _Price: 2000
+    _GoodsType: Gold
+    _Type: Normal
